@@ -21,6 +21,4 @@ Responsi Pemrograman Fullstack yaitu Dashboard Admin Manajemen Pesanan untuk lay
 ## Menjalankan Proyek di Lokal
 1. Pastikan sudah menginstal Node.js.
 2. Buka terminal di VSC dalam folder responsi_pfs dan jalankan perintah:
-   npm install bootstrap react-bootstrap
-   npm install jquery
-   npm run dev
+   npm install bootstrap react-bootstrap , npm install jquery , npm run dev
